@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.title_login{
+    padding: 2em;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+
+.mail_login{
+    padding: 0.5em;
+}
