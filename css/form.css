@@ -15,4 +15,15 @@ body{
 
 .mail_login{
     padding: 0.5em;
+    border-radius: 0.2em;
+}
+
+.pass_login{
+    padding: 0.5em;
+    border-radius: 0.2em;
+}
+
+.buttom_login{
+    padding: 0.5em;
+    border-radius: 0.2em;
 }
