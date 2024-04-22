@@ -27,3 +27,8 @@ body{
     padding: 0.5em;
     border-radius: 0.2em;
 }
+
+.msg_error{
+    color: red;
+    font-size: 0.5em;
+}
